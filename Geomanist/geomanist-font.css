@@ -3,7 +3,7 @@
 @font-face {
 	font-family: 'geomanist';
 	src: url('/geomanist/geomanist-light-webfont.eot');
-	src: url(/geomanist/geomanist-light-webfont.eot?#iefix') format('embedded-opentype'),
+	src: url('/geomanist/geomanist-light-webfont.eot?#iefix') format('embedded-opentype'),
 		 url('/geomanist/geomanist-light-webfont.woff2') format('woff2'),
 		 url('/geomanist/geomanist-light-webfont.woff') format('woff'),
 		 url('/geomanist/geomanist-light-webfont.ttf') format('truetype'),
